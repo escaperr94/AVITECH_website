@@ -17,11 +17,11 @@ Display your personal profile on the website.
 - Only modify sections marked with `<!-- === [EDIT HERE] === -->`.  
 - Keep the HTML structure unchanged to avoid display issues on WordPress.
 
-1. Step 1: Upload your square photo (1:1 ratio)
-Name the file exactly as your folder name, e.g., “DoHaiSon.png”.  
-This is the profile image shown on your page. The image may have a transparent or non-transparent background.
+1. Step 1: Upload **your photo (1:1 ratio)**
+- Name the file exactly as your folder name, e.g., “DoHaiSon.png”.  
+- This is the profile image shown on your page. The image may have a transparent or non-transparent background.
 
-2. Step 2: Edit the files “YourName_vn.html” and “YourName_en.html”
+2. Step 2: Edit the files **“YourName_vn.html”** and **“YourName_en.html”**
 Update the following:
 - Job title and affiliation  
 - Short biography  
